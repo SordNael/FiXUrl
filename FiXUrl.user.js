@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name         X url to Twitter
-// @version      0.3
+// @name         FiXUrl
+// @version      1.0
 // @description  Add a button to copy the URL of a tweet on X and changes its url to old https://twitter.com/*, https://vxtwitter.com/* or https://fxtwitter.com/*
 // @author       Taube
 // @match        https://twitter.com/*
